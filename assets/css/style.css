@@ -26,3 +26,17 @@ main p {
 main h2 {
     color: lightseagreen;
 }
+
+.textBox1 {
+    border-style: solid;
+    border-color: lightseagreen;
+    padding: 20px;
+    background-color:burlywood;
+}
+
+.textBox2 {
+    border-style: solid;
+    border-color: lightseagreen;
+    padding: 20px;
+    background-color:rgb(172, 137, 92); 
+}
